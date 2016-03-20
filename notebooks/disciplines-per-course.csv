@@ -1,0 +1,923 @@
+discipline,course,school,program,aggregates
+cs,berkeley-info202,Berkeley,MIMS,Computer Science
+news,berkeley-info202,Berkeley,MIMS,News
+psych,berkeley-info202,Berkeley,MIMS,Social Sciences
+med,berkeley-info202,Berkeley,MIMS,Science
+cs,berkeley-info202,Berkeley,MIMS,Computer Science
+is,berkeley-info202,Berkeley,MIMS,Information Science
+cs,berkeley-info202,Berkeley,MIMS,Computer Science
+man,berkeley-info202,Berkeley,MIMS,Management
+science,berkeley-info202,Berkeley,MIMS,Science
+news,berkeley-info202,Berkeley,MIMS,News
+news,berkeley-info202,Berkeley,MIMS,News
+news,berkeley-info202,Berkeley,MIMS,News
+news,berkeley-info202,Berkeley,MIMS,News
+news,berkeley-info202,Berkeley,MIMS,News
+man,berkeley-info203,Berkeley,MIMS,Management
+law,berkeley-info203,Berkeley,MIMS,Law
+hci,berkeley-info203,Berkeley,MIMS,HCI
+hum,berkeley-info203,Berkeley,MIMS,Humanities
+eco,berkeley-info203,Berkeley,MIMS,Social Sciences
+cs,berkeley-info203,Berkeley,MIMS,Computer Science
+sts,berkeley-info203,Berkeley,MIMS,Social Sciences
+hum,berkeley-info203,Berkeley,MIMS,Humanities
+misc,berkeley-info203,Berkeley,MIMS,Misc
+hci,berkeley-info203,Berkeley,MIMS,HCI
+hum,berkeley-info203,Berkeley,MIMS,Humanities
+news,berkeley-info203,Berkeley,MIMS,News
+hci,berkeley-info203,Berkeley,MIMS,HCI
+eco,berkeley-info203,Berkeley,MIMS,Social Sciences
+eco,berkeley-info203,Berkeley,MIMS,Social Sciences
+science,berkeley-info203,Berkeley,MIMS,Science
+ed,berkeley-info203,Berkeley,MIMS,Social Sciences
+hum,berkeley-info203,Berkeley,MIMS,Humanities
+news,berkeley-info203,Berkeley,MIMS,News
+news,berkeley-info203,Berkeley,MIMS,News
+news,berkeley-info203,Berkeley,MIMS,News
+law,berkeley-info205,Berkeley,MIMS,Law
+law,berkeley-info205,Berkeley,MIMS,Law
+news,berkeley-info205,Berkeley,MIMS,News
+cs,berkeley-info205,Berkeley,MIMS,Computer Science
+misc,berkeley-info205,Berkeley,MIMS,Misc
+cs,berkeley-info206,Berkeley,MIMS,Computer Science
+lis,drexel-info520,Drexel,MSLIS,LIS
+lis,drexel-info520,Drexel,MSLIS,LIS
+lis,drexel-info521,Drexel,MSLIS,LIS
+lis,drexel-info521,Drexel,MSLIS,LIS
+lis,drexel-info522,Drexel,MSLIS,LIS
+is,drexel-info522,Drexel,MSLIS,Information Science
+lis,drexel-info640,Drexel,MSLIS,LIS
+lis,drexel-info640,Drexel,MSLIS,LIS
+lis,drexel-info640,Drexel,MSLIS,LIS
+lis,drexel-info640,Drexel,MSLIS,LIS
+lis,drexel-info640,Drexel,MSLIS,LIS
+is,drexel-info640,Drexel,MSLIS,Information Science
+man,drexel-info640,Drexel,MSLIS,Management
+man,drexel-info640,Drexel,MSLIS,Management
+lis,drexel-info640,Drexel,MSLIS,LIS
+man,drexel-info640,Drexel,MSLIS,Management
+lis,drexel-info640,Drexel,MSLIS,LIS
+is,florida-lis5411,Florida State,MSLIS,Information Science
+lis,florida-lis5703,Florida State,MSLIS,LIS
+is,florida-lis5703,Florida State,MSLIS,Information Science
+lis,florida-lis5703,Florida State,MSLIS,LIS
+lis,florida-lis5703,Florida State,MSLIS,LIS
+lis,florida-lis5703,Florida State,MSLIS,LIS
+law,florida-lis5703,Florida State,MSLIS,Law
+lis,florida-lis5703,Florida State,MSLIS,LIS
+lis,florida-lis5703,Florida State,MSLIS,LIS
+lis,florida-lis5703,Florida State,MSLIS,LIS
+news,georgiatech-cs6750,Georgia Tech,MSHCI,News
+is,georgiatech-cs6750,Georgia Tech,MSHCI,Information Science
+is,georgiatech-cs6750,Georgia Tech,MSHCI,Information Science
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+media,illinois-lis501,UIUC,MSLIS,Humanities
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+misc,illinois-lis501,UIUC,MSLIS,Misc
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+is,illinois-lis501,UIUC,MSLIS,Information Science
+lis,illinois-lis501,UIUC,MSLIS,LIS
+news,illinois-lis501,UIUC,MSLIS,News
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+is,illinois-lis501,UIUC,MSLIS,Information Science
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+is,illinois-lis501,UIUC,MSLIS,Information Science
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+is,illinois-lis501,UIUC,MSLIS,Information Science
+is,illinois-lis501,UIUC,MSLIS,Information Science
+lis,illinois-lis501,UIUC,MSLIS,LIS
+is,illinois-lis501,UIUC,MSLIS,Information Science
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+is,illinois-lis501,UIUC,MSLIS,Information Science
+hum,illinois-lis501,UIUC,MSLIS,Humanities
+lis,illinois-lis501,UIUC,MSLIS,LIS
+is,illinois-lis501,UIUC,MSLIS,Information Science
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+is,illinois-lis501,UIUC,MSLIS,Information Science
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+is,illinois-lis501,UIUC,MSLIS,Information Science
+news,illinois-lis501,UIUC,MSLIS,News
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+cs,illinois-lis501,UIUC,MSLIS,Computer Science
+lis,illinois-lis501,UIUC,MSLIS,LIS
+is,illinois-lis501,UIUC,MSLIS,Information Science
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+is,illinois-lis501,UIUC,MSLIS,Information Science
+is,illinois-lis501,UIUC,MSLIS,Information Science
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+lis,illinois-lis501,UIUC,MSLIS,LIS
+news,illinois-lis501,UIUC,MSLIS,News
+is,illinois-lis501,UIUC,MSLIS,Information Science
+lis,indiana-z501,Indiana,MLS,LIS
+lis,indiana-z501,Indiana,MLS,LIS
+lis,indiana-z501,Indiana,MLS,LIS
+lis,indiana-z501,Indiana,MLS,LIS
+is,indiana-z501,Indiana,MLS,Information Science
+lis,indiana-z501,Indiana,MLS,LIS
+is,indiana-z501,Indiana,MLS,Information Science
+lis,indiana-z501,Indiana,MLS,LIS
+lis,indiana-z501,Indiana,MLS,LIS
+lis,indiana-z501,Indiana,MLS,LIS
+lis,indiana-z501,Indiana,MLS,LIS
+lis,indiana-z501,Indiana,MLS,LIS
+lis,indiana-z501,Indiana,MLS,LIS
+psych,indiana-z501,Indiana,MLS,Social Sciences
+hci,indiana-z501,Indiana,MLS,HCI
+man,indiana-z501,Indiana,MLS,Management
+hci,indiana-z503,Indiana,MLS,HCI
+is,indiana-z503,Indiana,MLS,Information Science
+lis,indiana-z503,Indiana,MLS,LIS
+cs,indiana-z503,Indiana,MLS,Computer Science
+lis,indiana-z503,Indiana,MLS,LIS
+man,indiana-z503,Indiana,MLS,Management
+is,indiana-z503,Indiana,MLS,Information Science
+cs,indiana-z503,Indiana,MLS,Computer Science
+lis,indiana-z503,Indiana,MLS,LIS
+misc,indiana-z503,Indiana,MLS,Misc
+sts,indiana-z503,Indiana,MLS,Social Sciences
+lis,indiana-z503,Indiana,MLS,LIS
+is,indiana-z503,Indiana,MLS,Information Science
+news,indiana-z503,Indiana,MLS,News
+man,indiana-z503,Indiana,MLS,Management
+is,indiana-z503,Indiana,MLS,Information Science
+lis,indiana-z503,Indiana,MLS,LIS
+is,indiana-z503,Indiana,MLS,Information Science
+lis,indiana-z503,Indiana,MLS,LIS
+lis,indiana-z503,Indiana,MLS,LIS
+lis,indiana-z503,Indiana,MLS,LIS
+soc,indiana-z503,Indiana,MLS,Social Sciences
+lis,indiana-z503,Indiana,MLS,LIS
+is,indiana-z503,Indiana,MLS,Information Science
+is,indiana-z503,Indiana,MLS,Information Science
+is,indiana-z503,Indiana,MLS,Information Science
+news,indiana-z503,Indiana,MLS,News
+lis,indiana-z503,Indiana,MLS,LIS
+is,indiana-z503,Indiana,MLS,Information Science
+is,indiana-z503,Indiana,MLS,Information Science
+is,indiana-z503,Indiana,MLS,Information Science
+lis,indiana-z503,Indiana,MLS,LIS
+is,indiana-z503,Indiana,MLS,Information Science
+hci,indiana-z503,Indiana,MLS,HCI
+cs,indiana-z503,Indiana,MLS,Computer Science
+psych,indiana-z503,Indiana,MLS,Social Sciences
+science,indiana-z503,Indiana,MLS,Science
+man,indiana-z503,Indiana,MLS,Management
+cs,indiana-z503,Indiana,MLS,Computer Science
+cs,indiana-z503,Indiana,MLS,Computer Science
+cs,indiana-z503,Indiana,MLS,Computer Science
+is,indiana-z503,Indiana,MLS,Information Science
+is,indiana-z503,Indiana,MLS,Information Science
+lis,indiana-z503,Indiana,MLS,LIS
+news,indiana-z503,Indiana,MLS,News
+is,indiana-z503,Indiana,MLS,Information Science
+is,indiana-z503,Indiana,MLS,Information Science
+news,indiana-z503,Indiana,MLS,News
+man,indiana-z503,Indiana,MLS,Management
+science,indiana-z510,Indiana,MIS,Science
+hci,indiana-z510,Indiana,MIS,HCI
+hci,indiana-z510,Indiana,MIS,HCI
+misc,indiana-z510,Indiana,MIS,Misc
+is,indiana-z510,Indiana,MIS,Information Science
+man,indiana-z510,Indiana,MIS,Management
+man,indiana-z510,Indiana,MIS,Management
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+lis,indiana-z510,Indiana,MIS,LIS
+man,indiana-z510,Indiana,MIS,Management
+is,indiana-z510,Indiana,MIS,Information Science
+man,indiana-z510,Indiana,MIS,Management
+is,indiana-z510,Indiana,MIS,Information Science
+man,indiana-z510,Indiana,MIS,Management
+lis,indiana-z510,Indiana,MIS,LIS
+is,indiana-z510,Indiana,MIS,Information Science
+lis,indiana-z510,Indiana,MIS,LIS
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+hci,indiana-z510,Indiana,MIS,HCI
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+man,indiana-z510,Indiana,MIS,Management
+is,indiana-z510,Indiana,MIS,Information Science
+man,indiana-z510,Indiana,MIS,Management
+man,indiana-z510,Indiana,MIS,Management
+is,indiana-z510,Indiana,MIS,Information Science
+man,indiana-z510,Indiana,MIS,Management
+hci,indiana-z510,Indiana,MIS,HCI
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+man,indiana-z510,Indiana,MIS,Management
+hci,indiana-z510,Indiana,MIS,HCI
+cs,indiana-z510,Indiana,MIS,Computer Science
+hci,indiana-z510,Indiana,MIS,HCI
+is,indiana-z510,Indiana,MIS,Information Science
+man,indiana-z510,Indiana,MIS,Management
+hci,indiana-z510,Indiana,MIS,HCI
+is,indiana-z510,Indiana,MIS,Information Science
+hci,indiana-z510,Indiana,MIS,HCI
+psych,indiana-z510,Indiana,MIS,Social Sciences
+hci,indiana-z510,Indiana,MIS,HCI
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+man,indiana-z510,Indiana,MIS,Management
+is,indiana-z510,Indiana,MIS,Information Science
+misc,indiana-z510,Indiana,MIS,Misc
+man,indiana-z510,Indiana,MIS,Management
+is,indiana-z510,Indiana,MIS,Information Science
+med,indiana-z510,Indiana,MIS,Science
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+is,indiana-z510,Indiana,MIS,Information Science
+man,indiana-z510,Indiana,MIS,Management
+is,indiana-z510,Indiana,MIS,Information Science
+med,indiana-z510,Indiana,MIS,Science
+hci,indiana-z510,Indiana,MIS,HCI
+is,indiana-z510,Indiana,MIS,Information Science
+hci,indiana-z510,Indiana,MIS,HCI
+is,indiana-z510,Indiana,MIS,Information Science
+man,indiana-z510,Indiana,MIS,Management
+man,indiana-z510,Indiana,MIS,Management
+lis,indiana-z510,Indiana,MIS,LIS
+is,indiana-z510,Indiana,MIS,Information Science
+man,indiana-z510,Indiana,MIS,Management
+hci,irvine-in4matx231,Irvine,MSICS,HCI
+hci,irvine-in4matx231,Irvine,MSICS,HCI
+hci,irvine-in4matx231,Irvine,MSICS,HCI
+news,irvine-in4matx231,Irvine,MSICS,News
+news,irvine-in4matx231,Irvine,MSICS,News
+science,irvine-in4matx231,Irvine,MSICS,Science
+hci,irvine-in4matx231,Irvine,MSICS,HCI
+hci,irvine-in4matx241,Irvine,MSICS,HCI
+hci,irvine-in4matx241,Irvine,MSICS,HCI
+hci,irvine-in4matx241,Irvine,MSICS,HCI
+news,irvine-in4matx241,Irvine,MSICS,News
+hci,irvine-in4matx241,Irvine,MSICS,HCI
+hci,irvine-in4matx241,Irvine,MSICS,HCI
+psych,irvine-in4matx241,Irvine,MSICS,Social Sciences
+hci,irvine-in4matx241,Irvine,MSICS,HCI
+hci,irvine-in4matx241,Irvine,MSICS,HCI
+hci,irvine-in4matx241,Irvine,MSICS,HCI
+hci,irvine-in4matx261,Irvine,MSICS,HCI
+misc,irvine-in4matx261,Irvine,MSICS,Misc
+hci,irvine-in4matx261,Irvine,MSICS,HCI
+hum,irvine-in4matx261,Irvine,MSICS,Humanities
+hum,irvine-in4matx261,Irvine,MSICS,Humanities
+law,irvine-in4matx261,Irvine,MSICS,Law
+man,irvine-in4matx261,Irvine,MSICS,Management
+man,irvine-in4matx261,Irvine,MSICS,Management
+media,irvine-in4matx261,Irvine,MSICS,Humanities
+psych,irvine-in4matx261,Irvine,MSICS,Social Sciences
+hci,irvine-in4matx261,Irvine,MSICS,HCI
+media,irvine-in4matx261,Irvine,MSICS,Humanities
+law,irvine-in4matx261,Irvine,MSICS,Law
+media,irvine-in4matx261,Irvine,MSICS,Humanities
+cs,irvine-in4matx261,Irvine,MSICS,Computer Science
+hci,irvine-in4matx261,Irvine,MSICS,HCI
+is,maryland-infm600,Maryland,MIM,Information Science
+man,maryland-infm600,Maryland,MIM,Management
+man,maryland-infm600,Maryland,MIM,Management
+man,maryland-infm600,Maryland,MIM,Management
+hci,maryland-infm600,Maryland,MIM,HCI
+psych,maryland-infm600,Maryland,MIM,Social Sciences
+media,maryland-infm600,Maryland,MIM,Humanities
+man,maryland-infm600,Maryland,MIM,Management
+man,maryland-infm600,Maryland,MIM,Management
+man,maryland-infm600,Maryland,MIM,Management
+man,maryland-infm600,Maryland,MIM,Management
+is,maryland-infm600,Maryland,MIM,Information Science
+misc,maryland-infm600,Maryland,MIM,Misc
+med,maryland-infm600,Maryland,MIM,Science
+man,maryland-infm600,Maryland,MIM,Management
+hci,maryland-infm600,Maryland,MIM,HCI
+man,maryland-infm600,Maryland,MIM,Management
+is,maryland-infm600,Maryland,MIM,Information Science
+man,maryland-infm600,Maryland,MIM,Management
+hci,maryland-inst631,Maryland,MSHCI,HCI
+hci,maryland-inst632,Maryland,MSHCI,HCI
+hci,maryland-inst632,Maryland,MSHCI,HCI
+hci,maryland-inst632,Maryland,MSHCI,HCI
+hci,maryland-inst632,Maryland,MSHCI,HCI
+hci,maryland-inst632,Maryland,MSHCI,HCI
+hci,maryland-inst632,Maryland,MSHCI,HCI
+hci,maryland-inst632,Maryland,MSHCI,HCI
+hci,maryland-inst632,Maryland,MSHCI,HCI
+hci,maryland-inst632,Maryland,MSHCI,HCI
+hci,maryland-inst632,Maryland,MSHCI,HCI
+lis,maryland-inst632,Maryland,MSHCI,LIS
+lis,maryland-inst632,Maryland,MSHCI,LIS
+hci,maryland-inst632,Maryland,MSHCI,HCI
+hci,maryland-inst632,Maryland,MSHCI,HCI
+hci,maryland-inst632,Maryland,MSHCI,HCI
+hci,maryland-inst632,Maryland,MSHCI,HCI
+lis,maryland-inst632,Maryland,MSHCI,LIS
+news,maryland-inst632,Maryland,MSHCI,News
+lis,maryland-lbsc602,Maryland,MLS,LIS
+lis,maryland-lbsc602,Maryland,MLS,LIS
+lis,maryland-lbsc602,Maryland,MLS,LIS
+news,maryland-lbsc602,Maryland,MLS,News
+is,maryland-lbsc602,Maryland,MLS,Information Science
+hci,maryland-lbsc602,Maryland,MLS,HCI
+is,maryland-lbsc602,Maryland,MLS,Information Science
+is,maryland-lbsc602,Maryland,MLS,Information Science
+news,maryland-lbsc602,Maryland,MLS,News
+hci,maryland-lbsc602,Maryland,MLS,HCI
+man,maryland-lbsc602,Maryland,MLS,Management
+is,maryland-lbsc602,Maryland,MLS,Information Science
+is,maryland-lbsc602,Maryland,MLS,Information Science
+is,maryland-lbsc602,Maryland,MLS,Information Science
+is,maryland-lbsc602,Maryland,MLS,Information Science
+lis,maryland-lbsc602,Maryland,MLS,LIS
+lis,maryland-lbsc602,Maryland,MLS,LIS
+lis,maryland-lbsc602,Maryland,MLS,LIS
+is,maryland-lbsc602,Maryland,MLS,Information Science
+is,maryland-lbsc602,Maryland,MLS,Information Science
+lis,maryland-lbsc602,Maryland,MLS,LIS
+lis,maryland-lbsc602,Maryland,MLS,LIS
+lis,maryland-lbsc602,Maryland,MLS,LIS
+lis,maryland-lbsc602,Maryland,MLS,LIS
+lis,maryland-lbsc602,Maryland,MLS,LIS
+is,maryland-lbsc602,Maryland,MLS,Information Science
+med,maryland-lbsc602,Maryland,MLS,Science
+med,maryland-lbsc602,Maryland,MLS,Science
+lis,maryland-lbsc602,Maryland,MLS,LIS
+cs,maryland-lbsc602,Maryland,MLS,Computer Science
+is,maryland-lbsc602,Maryland,MLS,Information Science
+lis,maryland-lbsc602,Maryland,MLS,LIS
+lis,maryland-lbsc602,Maryland,MLS,LIS
+lis,maryland-lbsc602,Maryland,MLS,LIS
+lis,maryland-lbsc602,Maryland,MLS,LIS
+lis,maryland-lbsc602,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+man,maryland-lbsc631,Maryland,MLS,Management
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+arch,maryland-lbsc631,Maryland,MLS,Archives
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+man,maryland-lbsc631,Maryland,MLS,Management
+lis,maryland-lbsc631,Maryland,MLS,LIS
+lis,maryland-lbsc631,Maryland,MLS,LIS
+science,maryland-lbsc671,Maryland,MLS,Science
+is,maryland-lbsc671,Maryland,MLS,Information Science
+lis,maryland-lbsc671,Maryland,MLS,LIS
+med,michigan-si500,Michigan,MSI,Science
+eco,michigan-si500,Michigan,MSI,Social Sciences
+is,michigan-si500,Michigan,MSI,Information Science
+is,michigan-si500,Michigan,MSI,Information Science
+misc,michigan-si500,Michigan,MSI,Misc
+is,michigan-si500,Michigan,MSI,Information Science
+lis,michigan-si500,Michigan,MSI,LIS
+psych,michigan-si501,Michigan,MSI,Social Sciences
+lis,michigan-si501,Michigan,MSI,LIS
+misc,michigan-si501,Michigan,MSI,Misc
+news,michigan-si501,Michigan,MSI,News
+is,michigan-si502,Michigan,MSI,Information Science
+lis,north-carolina-inls500,North Carolina,MSLS,LIS
+science,north-carolina-inls500,North Carolina,MSLS,Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+lis,north-carolina-inls500,North Carolina,MSLS,LIS
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+cs,north-carolina-inls500,North Carolina,MSLS,Computer Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+news,north-carolina-inls500,North Carolina,MSLS,News
+lis,north-carolina-inls500,North Carolina,MSLS,LIS
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+lis,north-carolina-inls500,North Carolina,MSLS,LIS
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+lis,north-carolina-inls500,North Carolina,MSLS,LIS
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+media,north-carolina-inls500,North Carolina,MSLS,Humanities
+lis,north-carolina-inls500,North Carolina,MSLS,LIS
+lis,north-carolina-inls500,North Carolina,MSLS,LIS
+cs,north-carolina-inls500,North Carolina,MSLS,Computer Science
+hci,north-carolina-inls500,North Carolina,MSLS,HCI
+lis,north-carolina-inls500,North Carolina,MSLS,LIS
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+media,north-carolina-inls500,North Carolina,MSLS,Humanities
+ed,north-carolina-inls500,North Carolina,MSLS,Social Sciences
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+lis,north-carolina-inls500,North Carolina,MSLS,LIS
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+psych,north-carolina-inls500,North Carolina,MSLS,Social Sciences
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+lis,north-carolina-inls500,North Carolina,MSLS,LIS
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+lis,north-carolina-inls500,North Carolina,MSLS,LIS
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+lis,north-carolina-inls500,North Carolina,MSLS,LIS
+lis,north-carolina-inls500,North Carolina,MSLS,LIS
+lis,north-carolina-inls500,North Carolina,MSLS,LIS
+lis,north-carolina-inls500,North Carolina,MSLS,LIS
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+science,north-carolina-inls500,North Carolina,MSLS,Science
+misc,north-carolina-inls500,North Carolina,MSLS,Misc
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+lis,north-carolina-inls500,North Carolina,MSLS,LIS
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+science,north-carolina-inls500,North Carolina,MSLS,Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+lis,north-carolina-inls500,North Carolina,MSLS,LIS
+lis,north-carolina-inls500,North Carolina,MSLS,LIS
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+lis,north-carolina-inls500,North Carolina,MSLS,LIS
+lis,north-carolina-inls500,North Carolina,MSLS,LIS
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+science,north-carolina-inls500,North Carolina,MSLS,Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+hci,north-carolina-inls500,North Carolina,MSLS,HCI
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+cs,north-carolina-inls500,North Carolina,MSLS,Computer Science
+lis,north-carolina-inls500,North Carolina,MSLS,LIS
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+is,north-carolina-inls500,North Carolina,MSLS,Information Science
+arch,north-carolina-inls500,North Carolina,MSLS,Archives
+lis,north-carolina-inls501,North Carolina,MSLS,LIS
+lis,north-carolina-inls501,North Carolina,MSLS,LIS
+med,north-carolina-inls501,North Carolina,MSLS,Science
+lis,north-carolina-inls501,North Carolina,MSLS,LIS
+lis,north-carolina-inls501,North Carolina,MSLS,LIS
+lis,north-carolina-inls501,North Carolina,MSLS,LIS
+lis,north-carolina-inls501,North Carolina,MSLS,LIS
+lis,north-carolina-inls501,North Carolina,MSLS,LIS
+is,north-carolina-inls501,North Carolina,MSLS,Information Science
+lis,north-carolina-inls501,North Carolina,MSLS,LIS
+lis,north-carolina-inls501,North Carolina,MSLS,LIS
+lis,north-carolina-inls501,North Carolina,MSLS,LIS
+lis,north-carolina-inls501,North Carolina,MSLS,LIS
+lis,north-carolina-inls501,North Carolina,MSLS,LIS
+lis,north-carolina-inls501,North Carolina,MSLS,LIS
+lis,north-carolina-inls501,North Carolina,MSLS,LIS
+lis,north-carolina-inls513,North Carolina,MSLS,LIS
+lis,north-carolina-inls513,North Carolina,MSLS,LIS
+news,north-carolina-inls513,North Carolina,MSLS,News
+lis,north-carolina-inls513,North Carolina,MSLS,LIS
+lis,north-carolina-inls513,North Carolina,MSLS,LIS
+lis,north-carolina-inls513,North Carolina,MSLS,LIS
+lis,north-carolina-inls513,North Carolina,MSLS,LIS
+lis,north-carolina-inls513,North Carolina,MSLS,LIS
+lis,north-carolina-inls513,North Carolina,MSLS,LIS
+lis,north-carolina-inls513,North Carolina,MSLS,LIS
+lis,north-carolina-inls513,North Carolina,MSLS,LIS
+lis,north-carolina-inls513,North Carolina,MSLS,LIS
+lis,north-carolina-inls513,North Carolina,MSLS,LIS
+is,north-carolina-inls513,North Carolina,MSLS,Information Science
+lis,north-carolina-inls520,North Carolina,MSLS,LIS
+lis,north-carolina-inls520,North Carolina,MSLS,LIS
+arch,north-carolina-inls520,North Carolina,MSLS,Archives
+lis,north-carolina-inls520,North Carolina,MSLS,LIS
+lis,north-carolina-inls520,North Carolina,MSLS,LIS
+is,north-carolina-inls520,North Carolina,MSLS,Information Science
+is,north-carolina-inls520,North Carolina,MSLS,Information Science
+misc,north-carolina-inls520,North Carolina,MSLS,Misc
+man,north-carolina-inls520,North Carolina,MSLS,Management
+misc,north-carolina-inls520,North Carolina,MSLS,Misc
+is,north-carolina-inls520,North Carolina,MSLS,Information Science
+misc,north-carolina-inls520,North Carolina,MSLS,Misc
+misc,north-carolina-inls520,North Carolina,MSLS,Misc
+lis,north-carolina-inls520,North Carolina,MSLS,LIS
+misc,north-carolina-inls520,North Carolina,MSLS,Misc
+misc,north-carolina-inls520,North Carolina,MSLS,Misc
+lis,north-carolina-inls520,North Carolina,MSLS,LIS
+lis,north-carolina-inls520,North Carolina,MSLS,LIS
+psych,north-carolina-inls520,North Carolina,MSLS,Social Sciences
+hum,north-carolina-inls520,North Carolina,MSLS,Humanities
+lis,north-carolina-inls520,North Carolina,MSIS,LIS
+lis,north-carolina-inls520,North Carolina,MSIS,LIS
+arch,north-carolina-inls520,North Carolina,MSIS,Archives
+lis,north-carolina-inls520,North Carolina,MSIS,LIS
+lis,north-carolina-inls520,North Carolina,MSIS,LIS
+is,north-carolina-inls520,North Carolina,MSIS,Information Science
+is,north-carolina-inls520,North Carolina,MSIS,Information Science
+misc,north-carolina-inls520,North Carolina,MSIS,Misc
+man,north-carolina-inls520,North Carolina,MSIS,Management
+misc,north-carolina-inls520,North Carolina,MSIS,Misc
+is,north-carolina-inls520,North Carolina,MSIS,Information Science
+misc,north-carolina-inls520,North Carolina,MSIS,Misc
+misc,north-carolina-inls520,North Carolina,MSIS,Misc
+lis,north-carolina-inls520,North Carolina,MSIS,LIS
+misc,north-carolina-inls520,North Carolina,MSIS,Misc
+misc,north-carolina-inls520,North Carolina,MSIS,Misc
+lis,north-carolina-inls520,North Carolina,MSIS,LIS
+lis,north-carolina-inls520,North Carolina,MSIS,LIS
+psych,north-carolina-inls520,North Carolina,MSIS,Social Sciences
+hum,north-carolina-inls520,North Carolina,MSIS,Humanities
+med,north-carolina-inls560,North Carolina,MSIS,Science
+science,north-carolina-inls581,North Carolina,MSLS,Science
+psych,north-carolina-inls581,North Carolina,MSLS,Social Sciences
+psych,north-carolina-inls581,North Carolina,MSLS,Social Sciences
+stat,north-carolina-inls581,North Carolina,MSLS,Social Sciences
+science,north-carolina-inls581,North Carolina,MSLS,Science
+psych,north-carolina-inls581,North Carolina,MSLS,Social Sciences
+psych,north-carolina-inls581,North Carolina,MSLS,Social Sciences
+lis,north-carolina-inls581,North Carolina,MSLS,LIS
+lis,north-carolina-inls581,North Carolina,MSLS,LIS
+news,north-carolina-inls581,North Carolina,MSLS,News
+news,north-carolina-inls581,North Carolina,MSLS,News
+psych,north-carolina-inls581,North Carolina,MSLS,Social Sciences
+man,north-carolina-inls581,North Carolina,MSLS,Management
+news,north-carolina-inls581,North Carolina,MSLS,News
+stat,north-carolina-inls581,North Carolina,MSLS,Social Sciences
+psych,north-carolina-inls581,North Carolina,MSLS,Social Sciences
+psych,north-carolina-inls581,North Carolina,MSLS,Social Sciences
+lis,north-carolina-inls581,North Carolina,MSLS,LIS
+lis,north-carolina-inls581,North Carolina,MSLS,LIS
+science,north-carolina-inls581,North Carolina,MSIS,Science
+psych,north-carolina-inls581,North Carolina,MSIS,Social Sciences
+psych,north-carolina-inls581,North Carolina,MSIS,Social Sciences
+stat,north-carolina-inls581,North Carolina,MSIS,Social Sciences
+science,north-carolina-inls581,North Carolina,MSIS,Science
+psych,north-carolina-inls581,North Carolina,MSIS,Social Sciences
+psych,north-carolina-inls581,North Carolina,MSIS,Social Sciences
+lis,north-carolina-inls581,North Carolina,MSIS,LIS
+lis,north-carolina-inls581,North Carolina,MSIS,LIS
+news,north-carolina-inls581,North Carolina,MSIS,News
+news,north-carolina-inls581,North Carolina,MSIS,News
+psych,north-carolina-inls581,North Carolina,MSIS,Social Sciences
+man,north-carolina-inls581,North Carolina,MSIS,Management
+news,north-carolina-inls581,North Carolina,MSIS,News
+stat,north-carolina-inls581,North Carolina,MSIS,Social Sciences
+psych,north-carolina-inls581,North Carolina,MSIS,Social Sciences
+psych,north-carolina-inls581,North Carolina,MSIS,Social Sciences
+lis,north-carolina-inls581,North Carolina,MSIS,LIS
+lis,north-carolina-inls581,North Carolina,MSIS,LIS
+is,north-carolina-inls582,North Carolina,MSIS,Information Science
+med,north-carolina-inls582,North Carolina,MSIS,Science
+is,north-carolina-inls582,North Carolina,MSIS,Information Science
+news,north-carolina-inls582,North Carolina,MSIS,News
+hci,north-carolina-inls582,North Carolina,MSIS,HCI
+hci,north-carolina-inls582,North Carolina,MSIS,HCI
+hci,north-carolina-inls582,North Carolina,MSIS,HCI
+med,north-carolina-inls582,North Carolina,MSIS,Science
+hci,north-carolina-inls582,North Carolina,MSIS,HCI
+is,north-carolina-inls582,North Carolina,MSIS,Information Science
+is,north-carolina-inls582,North Carolina,MSIS,Information Science
+lis,north-carolina-inls582,North Carolina,MSIS,LIS
+news,north-carolina-inls582,North Carolina,MSIS,News
+news,north-carolina-inls582,North Carolina,MSIS,News
+news,north-carolina-inls582,North Carolina,MSIS,News
+ed,north-carolina-inls585,North Carolina,MSIS,Social Sciences
+ed,north-carolina-inls585,North Carolina,MSLS,Social Sciences
+man,north-carolina-inls781,North Carolina,MSLS,Management
+is,north-carolina-inls781,North Carolina,MSLS,Information Science
+is,rutgers-510,Rutgers,MI,Information Science
+lis,rutgers-510,Rutgers,MI,LIS
+is,rutgers-510,Rutgers,MI,Information Science
+lis,rutgers-510,Rutgers,MI,LIS
+is,rutgers-510,Rutgers,MI,Information Science
+is,rutgers-510,Rutgers,MI,Information Science
+is,rutgers-510,Rutgers,MI,Information Science
+is,rutgers-510,Rutgers,MI,Information Science
+is,rutgers-510,Rutgers,MI,Information Science
+is,rutgers-510,Rutgers,MI,Information Science
+is,rutgers-510,Rutgers,MI,Information Science
+is,rutgers-510,Rutgers,MI,Information Science
+is,rutgers-510,Rutgers,MI,Information Science
+lis,rutgers-510,Rutgers,MI,LIS
+is,rutgers-510,Rutgers,MI,Information Science
+is,rutgers-510,Rutgers,MI,Information Science
+lis,rutgers-510,Rutgers,MI,LIS
+is,rutgers-510,Rutgers,MI,Information Science
+is,rutgers-510,Rutgers,MI,Information Science
+is,rutgers-510,Rutgers,MI,Information Science
+lis,rutgers-520,Rutgers,MI,LIS
+is,rutgers-520,Rutgers,MI,Information Science
+lis,rutgers-520,Rutgers,MI,LIS
+is,rutgers-530,Rutgers,MI,Information Science
+is,rutgers-530,Rutgers,MI,Information Science
+lis,rutgers-530,Rutgers,MI,LIS
+lis,rutgers-530,Rutgers,MI,LIS
+lis,rutgers-530,Rutgers,MI,LIS
+med,rutgers-530,Rutgers,MI,Science
+is,rutgers-530,Rutgers,MI,Information Science
+is,rutgers-530,Rutgers,MI,Information Science
+is,rutgers-530,Rutgers,MI,Information Science
+is,rutgers-530,Rutgers,MI,Information Science
+is,rutgers-530,Rutgers,MI,Information Science
+news,rutgers-530,Rutgers,MI,News
+news,rutgers-530,Rutgers,MI,News
+lis,rutgers-530,Rutgers,MI,LIS
+is,rutgers-530,Rutgers,MI,Information Science
+lis,rutgers-530,Rutgers,MI,LIS
+lis,rutgers-530,Rutgers,MI,LIS
+is,rutgers-530,Rutgers,MI,Information Science
+is,rutgers-530,Rutgers,MI,Information Science
+is,rutgers-530,Rutgers,MI,Information Science
+lis,rutgers-530,Rutgers,MI,LIS
+lis,rutgers-530,Rutgers,MI,LIS
+is,rutgers-530,Rutgers,MI,Information Science
+is,rutgers-530,Rutgers,MI,Information Science
+lis,rutgers-530,Rutgers,MI,LIS
+news,rutgers-530,Rutgers,MI,News
+is,rutgers-530,Rutgers,MI,Information Science
+is,rutgers-530,Rutgers,MI,Information Science
+misc,rutgers-570,Rutgers,MI,Misc
+ed,rutgers-570,Rutgers,MI,Social Sciences
+man,rutgers-570,Rutgers,MI,Management
+man,rutgers-570,Rutgers,MI,Management
+man,rutgers-570,Rutgers,MI,Management
+man,rutgers-570,Rutgers,MI,Management
+news,rutgers-570,Rutgers,MI,News
+lis,rutgers-570,Rutgers,MI,LIS
+misc,rutgers-570,Rutgers,MI,Misc
+lis,rutgers-570,Rutgers,MI,LIS
+lis,rutgers-570,Rutgers,MI,LIS
+news,rutgers-570,Rutgers,MI,News
+lis,rutgers-570,Rutgers,MI,LIS
+lis,rutgers-570,Rutgers,MI,LIS
+lis,rutgers-570,Rutgers,MI,LIS
+lis,rutgers-570,Rutgers,MI,LIS
+lis,rutgers-570,Rutgers,MI,LIS
+man,rutgers-570,Rutgers,MI,Management
+misc,rutgers-570,Rutgers,MI,Misc
+misc,rutgers-570,Rutgers,MI,Misc
+man,rutgers-570,Rutgers,MI,Management
+ed,rutgers-570,Rutgers,MI,Social Sciences
+man,rutgers-570,Rutgers,MI,Management
+lis,rutgers-570,Rutgers,MI,LIS
+lis,rutgers-570,Rutgers,MI,LIS
+lis,rutgers-570,Rutgers,MI,LIS
+man,rutgers-570,Rutgers,MI,Management
+cs,rutgers-570,Rutgers,MI,Computer Science
+eco,rutgers-570,Rutgers,MI,Social Sciences
+lis,rutgers-570,Rutgers,MI,LIS
+man,rutgers-570,Rutgers,MI,Management
+man,rutgers-570,Rutgers,MI,Management
+man,rutgers-570,Rutgers,MI,Management
+lis,rutgers-570,Rutgers,MI,LIS
+lis,rutgers-570,Rutgers,MI,LIS
+lis,rutgers-570,Rutgers,MI,LIS
+lis,rutgers-580,Rutgers,MI,LIS
+soc,rutgers-580,Rutgers,MI,Social Sciences
+misc,rutgers-580,Rutgers,MI,Misc
+hum,rutgers-580,Rutgers,MI,Humanities
+lis,rutgers-580,Rutgers,MI,LIS
+sts,rutgers-580,Rutgers,MI,Social Sciences
+hum,rutgers-580,Rutgers,MI,Humanities
+soc,rutgers-580,Rutgers,MI,Social Sciences
+science,syracuse-ist601,Syracuse,MSLIS,Science
+man,syracuse-ist601,Syracuse,MSLIS,Management
+is,syracuse-ist601,Syracuse,MSLIS,Information Science
+lis,syracuse-ist601,Syracuse,MSLIS,LIS
+lis,syracuse-ist601,Syracuse,MSLIS,LIS
+lis,syracuse-ist601,Syracuse,MSLIS,LIS
+man,syracuse-ist601,Syracuse,MSLIS,Management
+lis,syracuse-ist601,Syracuse,MSLIS,LIS
+lis,syracuse-ist601,Syracuse,MSLIS,LIS
+law,syracuse-ist601,Syracuse,MSLIS,Law
+man,syracuse-ist601,Syracuse,MSLIS,Management
+sts,syracuse-ist601,Syracuse,MSLIS,Social Sciences
+man,syracuse-ist601,Syracuse,MSLIS,Management
+lis,syracuse-ist601,Syracuse,MSLIS,LIS
+news,syracuse-ist601,Syracuse,MSLIS,News
+lis,syracuse-ist601,Syracuse,MSLIS,LIS
+lis,syracuse-ist601,Syracuse,MSLIS,LIS
+hum,texas-inf380,Texas Austin,MSIS,Humanities
+soc,texas-inf380,Texas Austin,MSIS,Social Sciences
+media,texas-inf380,Texas Austin,MSIS,Humanities
+arch,texas-inf380,Texas Austin,MSIS,Archives
+hum,texas-inf380,Texas Austin,MSIS,Humanities
+lis,texas-inf380,Texas Austin,MSIS,LIS
+hum,texas-inf380,Texas Austin,MSIS,Humanities
+misc,texas-inf380,Texas Austin,MSIS,Misc
+hci,texas-inf380,Texas Austin,MSIS,HCI
+sts,texas-inf380,Texas Austin,MSIS,Social Sciences
+media,texas-inf380,Texas Austin,MSIS,Humanities
+man,texas-inf380,Texas Austin,MSIS,Management
+arch,texas-inf380,Texas Austin,MSIS,Archives
+is,texas-inf380,Texas Austin,MSIS,Information Science
+ed,texas-inf380,Texas Austin,MSIS,Social Sciences
+arch,texas-inf380,Texas Austin,MSIS,Archives
+lis,texas-inf380,Texas Austin,MSIS,LIS
+media,texas-inf380,Texas Austin,MSIS,Humanities
+hci,texas-inf380,Texas Austin,MSIS,HCI
+is,texas-inf380,Texas Austin,MSIS,Information Science
+man,texas-inf380,Texas Austin,MSIS,Management
+lis,texas-inf380,Texas Austin,MSIS,LIS
+arch,texas-inf380,Texas Austin,MSIS,Archives
+soc,texas-inf380,Texas Austin,MSIS,Social Sciences
+is,texas-inf380,Texas Austin,MSIS,Information Science
+media,texas-inf380,Texas Austin,MSIS,Humanities
+hum,texas-inf380,Texas Austin,MSIS,Humanities
+soc,texas-inf380,Texas Austin,MSIS,Social Sciences
+science,texas-inf380,Texas Austin,MSIS,Science
+cs,texas-inf380,Texas Austin,MSIS,Computer Science
+psych,texas-inf380,Texas Austin,MSIS,Social Sciences
+is,texas-inf380,Texas Austin,MSIS,Information Science
+is,texas-inf380,Texas Austin,MSIS,Information Science
+lis,texas-inf380,Texas Austin,MSIS,LIS
+is,texas-inf380,Texas Austin,MSIS,Information Science
+news,texas-inf380,Texas Austin,MSIS,News
+man,texas-inf380,Texas Austin,MSIS,Management
+hum,texas-inf380,Texas Austin,MSIS,Humanities
+ed,texas-inf380,Texas Austin,MSIS,Social Sciences
+lis,texas-inf380,Texas Austin,MSIS,LIS
+lis,texas-inf380,Texas Austin,MSIS,LIS
+hum,texas-inf397,Texas Austin,MSIS,Humanities
+misc,texas-inf397,Texas Austin,MSIS,Misc
+is,texas-inf397,Texas Austin,MSIS,Information Science
+is,texas-inf397,Texas Austin,MSIS,Information Science
+psych,texas-inf397,Texas Austin,MSIS,Social Sciences
+man,texas-inf397,Texas Austin,MSIS,Management
+med,texas-inf397,Texas Austin,MSIS,Science
+lis,texas-inf397,Texas Austin,MSIS,LIS
+ed,texas-inf397,Texas Austin,MSIS,Social Sciences
+ed,texas-inf397,Texas Austin,MSIS,Social Sciences
+soc,texas-inf397,Texas Austin,MSIS,Social Sciences
+psych,texas-inf397,Texas Austin,MSIS,Social Sciences
+med,texas-inf397,Texas Austin,MSIS,Science
+is,texas-inf397,Texas Austin,MSIS,Information Science
+media,texas-inf397,Texas Austin,MSIS,Humanities
+man,texas-inf397,Texas Austin,MSIS,Management
+is,texas-inf397,Texas Austin,MSIS,Information Science
+is,texas-inf397,Texas Austin,MSIS,Information Science
+is,texas-inf397,Texas Austin,MSIS,Information Science
+ed,texas-inf397,Texas Austin,MSIS,Social Sciences
+is,texas-inf397,Texas Austin,MSIS,Information Science
+media,texas-inf397,Texas Austin,MSIS,Humanities
+is,texas-inf397,Texas Austin,MSIS,Information Science
+hum,texas-inf397,Texas Austin,MSIS,Humanities
+med,texas-inf397,Texas Austin,MSIS,Science
+is,texas-inf397,Texas Austin,MSIS,Information Science
+is,texas-inf397,Texas Austin,MSIS,Information Science
+hci,texas-inf397,Texas Austin,MSIS,HCI
+news,texas-inf397,Texas Austin,MSIS,News
+hci,texas-inf397,Texas Austin,MSIS,HCI
+is,texas-inf397,Texas Austin,MSIS,Information Science
+ed,texas-inf397,Texas Austin,MSIS,Social Sciences
+is,texas-inf397,Texas Austin,MSIS,Information Science
+media,texas-inf397,Texas Austin,MSIS,Humanities
+lis,texas-inf397,Texas Austin,MSIS,LIS
+man,texas-inf397,Texas Austin,MSIS,Management
+media,ucla-is200,UCLA,MLIS,Humanities
+science,ucla-is200,UCLA,MLIS,Science
+media,ucla-is200,UCLA,MLIS,Humanities
+hum,ucla-is200,UCLA,MLIS,Humanities
+media,ucla-is200,UCLA,MLIS,Humanities
+is,ucla-is200,UCLA,MLIS,Information Science
+lis,ucla-is200,UCLA,MLIS,LIS
+lis,ucla-is200,UCLA,MLIS,LIS
+media,ucla-is200,UCLA,MLIS,Humanities
+cs,ucla-is200,UCLA,MLIS,Computer Science
+hum,ucla-is200,UCLA,MLIS,Humanities
+news,ucla-is200,UCLA,MLIS,News
+is,ucla-is245,UCLA,MLIS,Information Science
+cs,ucla-is260,UCLA,MLIS,Computer Science
+arch,ucla-is260,UCLA,MLIS,Archives
+news,ucla-is260,UCLA,MLIS,News
+misc,ucla-is260,UCLA,MLIS,Misc
+lis,ucla-is260,UCLA,MLIS,LIS
+lis,ucla-is260,UCLA,MLIS,LIS
+is,ucla-is260,UCLA,MLIS,Information Science
+misc,ucla-is260,UCLA,MLIS,Misc
+misc,ucla-is260,UCLA,MLIS,Misc
+lis,ucla-is260,UCLA,MLIS,LIS
+lis,ucla-is260,UCLA,MLIS,LIS
+lis,ucla-is260,UCLA,MLIS,LIS
+is,ucla-is260,UCLA,MLIS,Information Science
+lis,ucla-is260,UCLA,MLIS,LIS
+lis,ucla-is260,UCLA,MLIS,LIS
+cs,ucla-is260,UCLA,MLIS,Computer Science
+lis,ucla-is260,UCLA,MLIS,LIS
+news,ucla-is260,UCLA,MLIS,News
+lis,ucla-is260,UCLA,MLIS,LIS
+news,ucla-is260,UCLA,MLIS,News
+lis,ucla-is260,UCLA,MLIS,LIS
+lis,ucla-is260,UCLA,MLIS,LIS
+news,ucla-is260,UCLA,MLIS,News
+is,ucla-is260,UCLA,MLIS,Information Science
+lis,ucla-is260,UCLA,MLIS,LIS
+cs,ucla-is260,UCLA,MLIS,Computer Science
+lis,ucla-is260,UCLA,MLIS,LIS
+lis,ucla-is260,UCLA,MLIS,LIS
+science,ucla-is270,UCLA,MLIS,Science
+is,ucla-is270,UCLA,MLIS,Information Science
+science,ucla-is270,UCLA,MLIS,Science
+lis,ucla-is270,UCLA,MLIS,LIS
+psych,ucla-is270,UCLA,MLIS,Social Sciences
+law,ucla-is270,UCLA,MLIS,Law
+cs,ucla-is270,UCLA,MLIS,Computer Science
+anth,ucla-is270,UCLA,MLIS,Social Sciences
+cs,ucla-is270,UCLA,MLIS,Computer Science
+cs,ucla-is270,UCLA,MLIS,Computer Science
+science,ucla-is270,UCLA,MLIS,Science
+is,ucla-is270,UCLA,MLIS,Information Science
+media,ucla-is270,UCLA,MLIS,Humanities
+anth,ucla-is270,UCLA,MLIS,Social Sciences
+lis,ucla-is270,UCLA,MLIS,LIS
+lis,ucla-is270,UCLA,MLIS,LIS
+news,ucla-is270,UCLA,MLIS,News
+cs,ucla-is270,UCLA,MLIS,Computer Science
+science,ucla-is270,UCLA,MLIS,Science
+med,ucla-is270,UCLA,MLIS,Science
+hci,ucla-is270,UCLA,MLIS,HCI
+hci,ucla-is270,UCLA,MLIS,HCI
+hci,ucla-is270,UCLA,MLIS,HCI
+eco,ucla-is270,UCLA,MLIS,Social Sciences
+law,ucla-is270,UCLA,MLIS,Law
+science,ucla-is270,UCLA,MLIS,Science
+news,ucla-is270,UCLA,MLIS,News
+is,ucla-is270,UCLA,MLIS,Information Science
+cs,ucla-is270,UCLA,MLIS,Computer Science
+hci,ucla-is270,UCLA,MLIS,HCI
+hum,ucla-is270,UCLA,MLIS,Humanities
+ed,ucla-is270,UCLA,MLIS,Social Sciences
+misc,ucla-is270,UCLA,MLIS,Misc
+eco,ucla-is270,UCLA,MLIS,Social Sciences
