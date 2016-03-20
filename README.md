@@ -8,6 +8,6 @@ In the `notebooks` folder are [Jupyter Notebooks](http://jupyter.org) documentin
 - `parsing-citations.ipynb` - contains the code for using the [AnyStyle API](http://anystyle.io/) for parsing text string citations into semi-structured data.
 - `clustering courses.ipynb` - contains the code for generating the various graphs in the paper and computing the diversity of individual degree programs.
 
-In the `writing` folder is the LATEX documents and rendered PDF of the submission to iconf16. Let's fill this up with more research outputs!
+In the `writing/iconf16` folder is the LATEX documents and rendered PDF of the submission to iconf16. Let's fill this up with more research outputs!
 
 Please open a Github issue or fork the project if you are interested in contributing to this research.
