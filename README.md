@@ -10,4 +10,4 @@ In the `notebooks` folder are [Jupyter Notebooks](http://jupyter.org) documentin
 
 In the `writing/iconf16` folder is the LATEX documents and rendered PDF of the submission to iconf16. Let's fill this up with more research outputs!
 
-Please open a Github issue or fork the project if you are interested in contributing to this research.
+Please open a Github issue or fork the project if you are interested in contributing to this research. Alternatively contact mcburton [at] pitt [dot] edu
